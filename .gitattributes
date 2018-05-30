@@ -1,0 +1,2 @@
+Train.csv filter=lfs diff=lfs merge=lfs -text
+bulldozers-raw filter=lfs diff=lfs merge=lfs -text
